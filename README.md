@@ -23,7 +23,7 @@ The Candidate Management API is built with .NET and utilizes Entity Framework Co
 
 - Add or update candidate records.
 - Asynchronous operations for better performance and scalability.
-- Generic repository pattern for flexible data access.
+- Repository pattern for flexible data access.
 
 ## Technologies Used
 
