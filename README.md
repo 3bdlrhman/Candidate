@@ -1,6 +1,6 @@
 # Candidate Management API
 
-This API provides functionalities to manage candidates using a generic repository pattern with Entity Framework Core.
+This API provides functionalities to manage candidates using a repository pattern with Entity Framework Core, Making use of the new features like Primary Constrctuor, Top-level namespace and Minimal API.
 
 ## Table of Contents
 
