@@ -20,6 +20,9 @@ var app = builder.Build();
 app.UseHttpsRedirection();
 app.UseAuthorization();
 
+// Minimal-API
+// POST /candidates
+
 app.MapPost("/candidates", 
 async (CandidateDto candidate, ICandidateRepository repository) =>
 {

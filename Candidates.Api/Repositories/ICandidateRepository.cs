@@ -2,7 +2,7 @@
 
 namespace Candidates.Api.Repositories
 {
-    // The abstraction repesenting data access operations
+    // The abstraction representing data access operations
     public interface ICandidateRepository
     {
         Task AddOrUpdateAsync(CandidateDto candidate);
